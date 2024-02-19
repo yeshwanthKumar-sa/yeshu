@@ -1,0 +1,35 @@
+.nav-logo{
+    height: 82px;
+}
+.yeshu-body{
+    height: 100vh;
+    
+}
+.item-nav{
+    color:blue;
+    font-size:'poppins', sans-serif ;;
+}
+.item-nav:hover{
+    color:green;
+}
+.anchor{
+    margin-left: auto ;
+}
+.body-section{
+    height: 77vh;
+    
+
+}
+.box-left{
+    
+    color: black;
+    height: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.box-right{
+   
+}
+.home-para{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+}
